@@ -1,11 +1,6 @@
 Install the required dependencies:
+
 pip install discord py
-
-
-3. Create a .env file and add your bot token to it:
-
-TOKEN=YOUR_BOT_TOKEN
-
 
 4. Start the bot:
 
