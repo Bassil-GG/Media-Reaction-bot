@@ -38,4 +38,4 @@ if __name__ == '__main__':
     bot = MediaReactionBot()
     bot.channels = [1014635028367548526, 1014635232923746304]  # Replace with your channel IDs
     bot.emojis = ['👍', '👎', '🗑️']  # Replace with your desired emojis
-    bot.run(token)
+    bot.run("token")
