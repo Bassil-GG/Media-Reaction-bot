@@ -19,4 +19,3 @@ If you are having problems with the bot, please check the following:
 Make sure that you have installed the required dependencies.
 Make sure that your bot token is correct.
 Make sure that the bot is running in the same server as the channels that you have configured.
-If you are still having problems, please do not dm me.```
