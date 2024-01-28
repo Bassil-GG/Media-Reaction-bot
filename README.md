@@ -2,7 +2,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-4. Start the bot:
+ Start the bot:
 
 python main.py
 
