@@ -4,7 +4,7 @@ pip install -r requirements.txt
 
 4. Start the bot:
 
-python bot.py
+python main.py
 
 
 **Configuration:**
